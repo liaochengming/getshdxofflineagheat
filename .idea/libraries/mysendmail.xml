@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mysendmail">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mysendmail/out/artifacts/mysendmail_jar/mysendmail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
